@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/huguettempudi.plainjs-l5ppi5lb",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve RjEq0YGIosPWoaJb7SLU --open"
+  }
+}
